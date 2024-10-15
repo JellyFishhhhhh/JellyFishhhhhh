@@ -11,3 +11,7 @@
 <a href="https://github.com/JellyFishhhhhh/Bike_share">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JellyFishhhhhh&repo=Bike_share&theme=buefy"/>
 </a>
+
+<a href="https://github.com/JellyFishhhhhh/Bike_share">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JellyFishhhhhh&repo=Bike_share&theme=buefy"/>
+</a>
