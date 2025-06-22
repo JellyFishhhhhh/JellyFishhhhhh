@@ -12,6 +12,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JellyFishhhhhh&repo=Bike_share&theme=buefy"/>
 </a>
 
-<a href="https://github.com/JellyFishhhhhh/Bike_share">
+<a href="https://github.com/JellyFishhhhhh/Map_Navigation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JellyFishhhhhh&repo=Map_Navigation&theme=buefy"/>
 </a>
